@@ -1,5 +1,6 @@
 <h1>HTML Introduction</h1>
 <p>HTML (Hypertext Markup Language) is a markup language used to create web pages. HTML consists of different elements, tags, and attributes that define the structure and content of the web page.</p>
+<hr>
 <h2>HTML Tag (Elements)</h2>
 <p>A tag is a container that encloses text, images, and other elements to define their meaning and structure. HTML tags are used to format and structure content on the web page. For example, the < p> tag is used to define a paragraph, and the < h1> tag is used to define a heading</p>
 <h1>This is HTML heading one</h1>
