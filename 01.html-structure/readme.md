@@ -22,7 +22,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="HTML Structure With Meta Tag">
     <meta name="keywords" content="HTML, HTML5, HTML Template">
-    <meta name="author" content="punit katiyar">
+    <meta name="author" content="Ajay Rariyar">
     <title>HTML Structure</title>
 </head>
 <body>
